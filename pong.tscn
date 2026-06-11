@@ -14,11 +14,11 @@ position = Vector2(554, 304)
 texture = ExtResource("1_m5tya")
 
 [node name="left" type="Sprite2D" parent="." unique_id=425510055]
-position = Vector2(1020, 286)
+position = Vector2(97, 278)
 texture = ExtResource("2_eipaa")
 
 [node name="right" type="Sprite2D" parent="." unique_id=909075674]
-position = Vector2(194, 315)
+position = Vector2(1064, 263)
 texture = ExtResource("3_ludyb")
 
 [node name="Separator" type="Sprite2D" parent="." unique_id=263832312]
